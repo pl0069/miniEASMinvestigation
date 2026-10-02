@@ -51,8 +51,6 @@ The discovered IPs were treated as Cloudflare edge infrastructure rather than co
 ## 2. Certificate & Subdomain Discovery
 
 **Tools:**
-
-* Certificate Transparency
 * Pentest-Tools
 
 ### TLS Certificate
