@@ -92,6 +92,8 @@ None identified
 
 ## 3. Technology Fingerprinting
 
+**Tool:** `Wappalyzer`
+
 An automated technology fingerprinting service initially reported technologies including:
 
 * Next.js
